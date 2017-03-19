@@ -1,2 +1,2 @@
-0 0 * * * root /usr/bin/php -q /var/www/public/crons/cron.php
+0 0 * * * root /usr/bin/php -q /var/www/html/client/crons/cron.php
 
