@@ -1,0 +1,2 @@
+TZ = Etc/UTC
+PHP_SERVER_ADDR = '$server_addr'
