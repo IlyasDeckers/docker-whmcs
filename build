@@ -22,3 +22,8 @@ curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin
 
 # create webroot dir
 mkdir -p /var/www/public
+
+
+# Cleanup
+apt-get autoremove -y && \
+apt-get clean -y

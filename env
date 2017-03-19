@@ -1,2 +1,2 @@
-TZ = Etc/UTC
+TZ = Europe/Brussels
 PHP_SERVER_ADDR = '$server_addr'
