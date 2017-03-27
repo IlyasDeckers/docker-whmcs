@@ -1,3 +1,3 @@
-*/5 * * * * php -q /var/www/client/crons/cron.php
-*/5 * * * * php -q /var/www/client/crons/pop.php
+*/5 * * * * php -q /var/www/html/client/crons/cron.php
+*/5 * * * * php -q /var/www/html/client/crons/pop.php
 
